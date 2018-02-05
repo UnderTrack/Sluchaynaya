@@ -1,4 +1,4 @@
-# **Sluchaynaya**
+# **Случайная**
 
 >***
 List of ideas and projects I plan on to give a try to improve my programming skills.
