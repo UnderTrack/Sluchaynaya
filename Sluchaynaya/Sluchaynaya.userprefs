@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4532E81D-330A-4FF0-9B4E-6E8F38EBE0BB}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sluchaynaya Status">
+    <Files>
+      <File FileName="Computer.cs" Line="4" Column="3" />
+      <File FileName="Memory.cs" Line="4" Column="3" />
+      <File FileName="Fonctions.cs" Line="18" Column="12" />
+      <File FileName="Properties\AssemblyInfo.cs" Line="4" Column="3" />
+      <File FileName="Sluchaynaya Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sluchaynaya PreferredExecutionTarget="MonoDevelop.Default" />
+  <AuthorInfo Name="Underen" Email="underen@gmx.com" Copyright="Underen" Company="UnDead Unity Development" Trademark="UUD" />
+</Properties>

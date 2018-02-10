@@ -1,0 +1,5 @@
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\bin\Debug\Sluchaynaya.exe
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\bin\Debug\Sluchaynaya.pdb
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\obj\x86\Debug\Sluchaynaya.exe
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\obj\x86\Debug\Sluchaynaya.pdb
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\bin\Debug\Sluchaynaya.xml

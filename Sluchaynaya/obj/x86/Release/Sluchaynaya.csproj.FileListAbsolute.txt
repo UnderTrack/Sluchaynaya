@@ -1,0 +1,2 @@
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\bin\Release\Sluchaynaya.exe
+D:\Users\UnderTracker\Desktop\Sluchaynaya\Sluchaynaya\obj\x86\Release\Sluchaynaya.exe
